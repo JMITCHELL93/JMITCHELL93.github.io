@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>James Mitchell (Posts about Website)</title><link>https://www.jamesmitchellweb.com/</link><description></description><atom:link href="https://www.jamesmitchellweb.com/categories/cat_website.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 28 May 2017 19:36:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>This Website</title><link>https://www.jamesmitchellweb.com/posts/this-website/</link><dc:creator>James Mitchell</dc:creator><description>&lt;p&gt;
+  As this is my first post, I thought it would be good to explain why I decided to make the site, provide some links to start your own and describe what I plan on using the site for in the future.
+  &lt;br&gt;
+  &lt;br&gt;
+  This website was constructed in the persuit of impoving my PYTHON and HTML skills.  The site was built using the static site generator Nikola which is written in python and was suggested to me by my good friend Matthew Allcock.  Getting equiped with all you need to start your own static site is shown on &lt;a href="http://www.matthewallcock.co.uk/"&gt;Matthew's site&lt;/a&gt; and I very much promote referencing his site and using his blog posts to help guide you through the process.
+  &lt;br&gt;
+  &lt;br&gt;
+  In addition to improving my python and HTML skills, the site has provided a briliant platform for sharing.  Not only can I blog my thoughts and ideas, I can use the website as a repository for documentation, codes and other files which I want to be available for community use.
+  &lt;br&gt;
+  &lt;br&gt;
+  I am sure that the purposes of the site will adapt and evolve over time, but this is one the advantages of having a site with blogging inbuilt.  It can change with you and acts as a brilliant representation of both your personal character and work related achievements.
+  &lt;br&gt;
+  &lt;br&gt;
+  First post done... let's see how this goes...
+  &lt;br&gt;
+  Jamie
+  &lt;/p&gt;</description><category>website</category><guid>https://www.jamesmitchellweb.com/posts/this-website/</guid><pubDate>Wed, 03 May 2017 20:52:14 GMT</pubDate></item></channel></rss>
