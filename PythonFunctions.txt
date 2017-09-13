@@ -1,0 +1,18 @@
+# ---------------------
+plt.ticklabel_format(style='sci', axis='y', scilimits=(0,0))
+##### Scientific notation on axes.
+# ---------------------
+# ---------------------
+data = np.array([list(map(float, line.split())) for line in 
+open(options.file,'r')])
+##### Fast load data.
+# ---------------------
+# ---------------------
+Array = np.array([list(map(float, line.split(Delimiter))) for line in 
+open(FileName,'r')])
+##### Fast load data.
+# ---------------------
+# ---------------------
+Array = np.genfromtxt(FileName, delimiter=Delimiter, dtype=None)
+##### Split input by line.
+# ---------------------
