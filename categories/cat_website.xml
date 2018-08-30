@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>James Mitchell (Posts about Website)</title><link>http://jamesmitchellweb.com/</link><description></description><atom:link href="http://jamesmitchellweb.com/categories/cat_website.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Mon, 18 Jun 2018 13:45:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>First Crabbing</title><link>http://jamesmitchellweb.com/posts/first-crabbing/</link><dc:creator>James Mitchell</dc:creator><description>&lt;p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>James Mitchell (Posts about Website)</title><link>http://jamesmitchellweb.com/</link><description></description><atom:link href="http://jamesmitchellweb.com/categories/cat_website.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Thu, 30 Aug 2018 16:53:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>AWAKE Electron Wakefield Acceleration</title><link>http://jamesmitchellweb.com/posts/awake-nature/</link><dc:creator>James Mitchell</dc:creator><description>&lt;p&gt;
+  I contributed to the AWAKE experiment at CERN but building the set-up to tune and tuning the 3 GHz constant gradient travelling wave structure used to accelerate the electrons used for wakefield acceleration.
+  &lt;br&gt;
+  &lt;br&gt;
+  The resulting paper in Nature can be seen &lt;a href="https://www.nature.com/articles/s41586-018-0485-4"&gt;here.
+
+  &lt;/a&gt;&lt;/p&gt;</description><category>awake</category><guid>http://jamesmitchellweb.com/posts/awake-nature/</guid><pubDate>Wed, 29 Aug 2018 20:52:14 GMT</pubDate></item><item><title>First Crabbing</title><link>http://jamesmitchellweb.com/posts/first-crabbing/</link><dc:creator>James Mitchell</dc:creator><description>&lt;p&gt;
   For two years now I have been working on Higher Order Modes (HOMs) in crab cavities as part of my PhD.
-  As you would imagine then, I have also been receiving the questions... 'what's a HOM?' and 'what's a crab cavity?'.
-
-  I thought it was about time I wrote about this, if not solely to have a re-direct for these questions at anual family gatherings.
-  After all, even Grandparents come pre-equipped with smart-phones and tablets nowadays
-  ... maybe Mr Musk should stop worrying about AI and focus his critiques on the iPensioner?
-
-
-
+  &lt;br&gt;
+  &lt;br&gt;
   I have been fortunate enough to be involved in the HL-LHC project (WP4) at a time when the first two manufactured cavities have been installed into the Super Proton Synchrotron (SPS) for preliminary tests with beam.
   This has meant that in addition to electromagnetic design work, I have been able to develop skills in cavity testing, RF measurements, high power RF and even some mechanical aspects associated with cavity manufacture.
+  &lt;br&gt;
+  &lt;br&gt;
+  Read more about the first crabbing &lt;a href="https://home.cern/cern-people/updates/2018/05/worlds-first-crabbing-proton-beam" download&gt;here.&lt;/a&gt;
+  &lt;br&gt;
+  Read articles on Lancaster University's contribution to HL-LHC &lt;a href="https://www.lancasterguardian.co.uk/news/lancaster-university-scientists-help-spearhead-world-first-in-physics-1-9186999" download&gt;here.&lt;/a&gt;
 
   &lt;/p&gt;</description><category>crab cavities</category><category>crabbing</category><guid>http://jamesmitchellweb.com/posts/first-crabbing/</guid><pubDate>Sun, 03 Jun 2018 20:52:14 GMT</pubDate></item><item><title>This Website</title><link>http://jamesmitchellweb.com/posts/this-website/</link><dc:creator>James Mitchell</dc:creator><description>&lt;p&gt;
   As this is my first post, I thought it would be good to explain why I decided to make the site, provide some links to start your own and describe what I plan on using the site for in the future.
