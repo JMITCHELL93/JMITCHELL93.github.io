@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>James Mitchell (Posts about crabbing)</title><link>http://jamesmitchellweb.com/</link><description></description><atom:link href="http://jamesmitchellweb.com/categories/crabbing.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Thu, 30 Aug 2018 16:53:23 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>First Crabbing</title><link>http://jamesmitchellweb.com/posts/first-crabbing/</link><dc:creator>James Mitchell</dc:creator><description>&lt;p&gt;
+  For two years now I have been working on Higher Order Modes (HOMs) in crab cavities as part of my PhD.
+  &lt;br&gt;
+  &lt;br&gt;
+  I have been fortunate enough to be involved in the HL-LHC project (WP4) at a time when the first two manufactured cavities have been installed into the Super Proton Synchrotron (SPS) for preliminary tests with beam.
+  This has meant that in addition to electromagnetic design work, I have been able to develop skills in cavity testing, RF measurements, high power RF and even some mechanical aspects associated with cavity manufacture.
+  &lt;br&gt;
+  &lt;br&gt;
+  Read more about the first crabbing &lt;a href="https://home.cern/cern-people/updates/2018/05/worlds-first-crabbing-proton-beam" download&gt;here.&lt;/a&gt;
+  &lt;br&gt;
+  Read articles on Lancaster University's contribution to HL-LHC &lt;a href="https://www.lancasterguardian.co.uk/news/lancaster-university-scientists-help-spearhead-world-first-in-physics-1-9186999" download&gt;here.&lt;/a&gt;
+
+  &lt;/p&gt;</description><category>crab cavities</category><category>crabbing</category><guid>http://jamesmitchellweb.com/posts/first-crabbing/</guid><pubDate>Sun, 03 Jun 2018 20:52:14 GMT</pubDate></item></channel></rss>

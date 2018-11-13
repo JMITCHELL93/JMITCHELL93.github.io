@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>James Mitchell (Posts about awake)</title><link>http://jamesmitchellweb.com/</link><description></description><atom:link href="http://jamesmitchellweb.com/categories/awake.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Thu, 30 Aug 2018 16:48:56 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>AWAKE Electron Wakefield Acceleration</title><link>http://jamesmitchellweb.com/posts/awake-nature/</link><dc:creator>James Mitchell</dc:creator><description>&lt;p&gt;
+  I contributed to the AWAKE experiment at CERN but building the set-up to tune and tuning the 3 GHz constant gradient travelling wave structure used to accelerate the electrons used for wakefield acceleration.
+  &lt;br&gt;
+  &lt;br&gt;
+  The resulting paper in Nature can be seen &lt;a href="https://www.nature.com/articles/s41586-018-0485-4"&gt;here.
+
+  &lt;/a&gt;&lt;/p&gt;</description><category>awake</category><guid>http://jamesmitchellweb.com/posts/awake-nature/</guid><pubDate>Wed, 29 Aug 2018 20:52:14 GMT</pubDate></item></channel></rss>
