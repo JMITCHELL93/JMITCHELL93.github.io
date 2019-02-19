@@ -106,7 +106,7 @@ plt.xticks(np.arange(min(x), max(x)+1, space))
 ##### Tick spacing.
 # ---------------------
 # ---------------------
-ax1.ticklabel_format(useOffset=False)
+plt.rcParams['axes.formatter.useoffset'] = False
 ##### Stop the terrible scientific notation matplotlib sometimes tries in classic plots.
 # ---------------------
 # ---------------------
