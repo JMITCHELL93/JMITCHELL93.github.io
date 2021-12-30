@@ -1,0 +1,72 @@
+\documentclass[12pt]{article}
+
+% Packages
+\usepackage{hyperref}
+\usepackage{amsmath}
+
+\begin{document}
+
+\title{\textbf{METHODS} \\ Impedance Calculations from Eigenmode Simulations}
+\author{James Mitchell}
+\maketitle
+
+\section{Introduction}
+
+This document details how to calculate the longitudinal and transverse impedances from electromagnetic eigenmode simulations.  The transverse impedance is calculated using the relationship between the longitudinal and transverse voltage described by the Panofsky-Wenzel theorum \cite{Ref_PW}.  The purpose is to provide a brief, simple introduction into how the calculations are made for discussion and distribution.
+
+For the transverse impedance calculations a dipole mode is assumed in the plane of interest.  For further detail, please refer to R. Wanzenberg's paper~\cite{Ref_Wanzenberg}.
+
+\section{Impedance Calculations}
+
+\noindent Firstly voltage gradients at offsets ($d$) close to the longitudinal axis axis are defined.
+
+\begin{equation}\label{Eq_dVdx+-}
+\dfrac{dV}{ds}_{(\pm d)} = \dfrac{\sqrt{\left(\Re\{V_{(\pm d, 0)}\}-\Re\{V_{(0, 0)}\}\right)^2 + \left(\Im\{V_{(\pm d, 0)}\}-\Im\{V_{(0, 0)}\}\right)^2}}{d}
+\end{equation}
+\\
+The average voltage gradient is then computed:
+
+\begin{equation}\label{Eq_dVdx}
+\dfrac{dV}{ds} = \dfrac{1}{2} \left( \dfrac{dV}{ds}_{(+d)} + \dfrac{dV}{ds}_{(-d)} \right)
+\end{equation}
+\\
+The voltage gradient can then be used to determine the transverse voltage and hence the transverse R/Q:
+
+\begin{equation}\label{Eq_R/QTransx}
+(R/Q)_{\perp} = \dfrac{1}{2\omega} \cdot \left(\dfrac{c}{\omega} \dfrac{dV}{ds} \right)^2
+\end{equation}
+\\
+The transverse impedance of the mode can then be calculated:
+
+\begin{equation}\label{Eq_RTransx}
+R_{\perp} = (R/Q)_{\perp} \cdot Q_{ext} \cdot \dfrac{\omega}{c}
+\end{equation}
+\\
+For longitudinal impedance, the mathematics shown in Eq. \ref{Eq_Vz} to Eq. \ref{Eq_RLong} below is applied:
+
+\begin{equation}\label{Eq_Vz}
+V_{z} = \sqrt{\Re{\{V_{axis}\}}^2 + \Im{\{V_{axis}\}}^2}
+\end{equation}
+\begin{equation}\label{Eq_R/QLong}
+(R/Q)_{\parallel} = \dfrac{1}{2\omega} \cdot V_{\parallel}^2
+\end{equation}
+\begin{equation}\label{Eq_RLong}
+R_{\parallel} = (R/Q)_\parallel \cdot Q_{ext}
+\end{equation}
+
+\begin{thebibliography}{99}
+
+\bibitem{Ref_PW}
+	W. Panofsky and W. Wenzel,  
+	in \textit{Rev. Sci. Instrum 27}, 
+	1956.
+\bibitem{Ref_Wanzenberg}
+	R. Wanzenberg ,
+	"Monopole, dipole and quadrupole passbands of the TESLA 9-cell cavity",
+	in \textit{Tesla Internal Note}, 
+	DESY Notkestr. 85, 22603 Hamburg Germany, Sept. 2001, 
+	Desy-Tesla-2001-33.
+
+\end{thebibliography}
+
+\end{document}

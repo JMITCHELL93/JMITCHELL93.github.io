@@ -1,0 +1,5 @@
+cd nikola
+source bin/activate
+cd
+cd cernbox/Work/Website/PersonalWebsite
+nikola build

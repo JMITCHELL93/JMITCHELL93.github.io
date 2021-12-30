@@ -1,4 +1,0 @@
-Sitemap: http://jamesmitchellweb.com/sitemapindex.xml
-
-User-Agent: *
-Host: jamesmitchellweb.com

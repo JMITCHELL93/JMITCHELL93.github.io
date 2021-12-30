@@ -1,0 +1,91 @@
+/*
+ * Copyright (c) 2014
+ *
+ * This file is licensed under the Affero General Public License version 3
+ * or later.
+ *
+ * See the COPYING-README file.
+ *
+ */
+
+.nav-icon-eostrashbin {
+    background-image: url('../../files/img/delete.svg');
+}
+
+/*
+#app-content-eostrashbin tbody tr[data-type="file"] td a.name,
+#app-content-eostrashbin tbody tr[data-type="file"] td a.name span {
+    cursor: default;
+}
+
+#app-content-eostrashbin .summary :last-child {
+	padding: 0;
+}
+#app-content-eostrashbin #filestable .summary .filesize {
+	display: none;
+}
+
+#app-navigation > ul {
+	padding-bottom: 44px;
+}
+
+
+nav-eostrashbin {
+	position: fixed !important;
+	bottom: 44px;
+	width: inherit !important;
+	background-color: #fff;
+	border-right: 1px solid #eee;
+}
+.app-files #app-navigation > ul li:nth-last-child(2) {
+	margin-bottom: 44px;
+}
+*/
+
+#app-content-eostrashbin .actions .new {
+    display: none;
+}
+
+#app-content-eostrashbin #fileList tr td.filename>.selectCheckBox+label:before {
+    display: none;
+}
+
+#app-content-eostrashbin .breadcrumb {
+    display: none
+}
+
+.cb-highlight .ui-state-default {
+    background: #1d2d44;
+    color: #FFF;
+}
+
+.cb_cal_form_wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.cb_cal_form {
+    visibility: hidden;
+    width: 0;
+    position: absolute;
+}
+
+.cb_cal_from:before {
+    content: "Pick a date interval (from)";
+    font-size: 0.8em;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.cb_cal_to:before {
+    content: "Pick a date interval (to) [limit 7 days]";
+    font-size: 0.8em;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.cb_cal_from, .cb_cal_to {
+    z-index: 100 !important;
+}
