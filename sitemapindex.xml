@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://jamesmitchellweb.com/galleries/rss.xml</loc>
-  <lastmod>2022-08-22T18:51:00Z</lastmod>
+  <loc>http://jamesmitchellweb.com/galleries/rss.xml</loc>
+  <lastmod>2022-08-29T13:51:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jamesmitchellweb.com/rss.xml</loc>
-  <lastmod>2022-08-22T18:51:00Z</lastmod>
+  <loc>http://jamesmitchellweb.com/rss.xml</loc>
+  <lastmod>2022-08-29T13:51:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jamesmitchellweb.com/sitemap.xml</loc>
-  <lastmod>2022-08-22T18:51:00Z</lastmod>
+  <loc>http://jamesmitchellweb.com/sitemap.xml</loc>
+  <lastmod>2022-08-29T13:51:00Z</lastmod>
  </sitemap>
 </sitemapindex>
